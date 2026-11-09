@@ -7483,5 +7483,8 @@
 "raw2/zuzhongyu_huanghan2.ogg_sgs",
 "raw2/zuzhongyu_jiejian1.ogg_sgs",
 "raw2/zuzhongyu_jiejian2.ogg_sgs",
-"raw2/zuzhongyu_zhenwang.ogg_sgs"
+"raw2/zuzhongyu_zhenwang.ogg_sgs",
+"drawable/mobiletest_big.png_sgs",
+"drawable/mobiletest_small.png_sgs",
+"raw2/mobiletest_voice.ogg_sgs"
 ]
